@@ -1,0 +1,18 @@
+#!/bin/bash
+
+GREEN='\033[1;32m'
+WHITE='\033[1;37m'
+RESET='\033[0m'
+
+echo
+echo
+
+printf "${GREEN}████████╗${RESET}          ${GREEN}██████╗${RESET}\n"
+printf "${GREEN}██╔═════╝${RESET}          ${GREEN}██╔══██╗${RESET}\n"
+printf "${GREEN}███████╗ ${RESET}    ${WHITE}.${RESET}     ${GREEN}██████╔╝${RESET}\n"
+printf "${GREEN}╚════██║ ${RESET}          ${GREEN}██╔══██╗${RESET}\n"
+printf "${GREEN}███████║ ${RESET}          ${GREEN}██║  ██║${RESET}\n"
+printf "${GREEN}╚══════╝ ${RESET}          ${GREEN}╚═╝  ╚═╝${RESET}    ${WHITE}.${RESET}"
+
+echo
+echo
