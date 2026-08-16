@@ -3,6 +3,13 @@ A small Bash project I made while learning Linux, shell scripting, Git, and GitH
 
 The script displays my S.R. name in the terminal using ASCII characters and green and white colors.
 
+
+**Preview**
+
+![whoistheboss terminal preview](whoistheboss.png)
+
+
+
 **HOW TO RUN**
 
 Clone the repository:
